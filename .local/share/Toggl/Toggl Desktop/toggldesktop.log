@@ -1,0 +1,10 @@
+2021-01-02 16:46:36.907 [14401 0]:context:D:startPeriodicUpdateCheck
+2021-01-02 16:46:36.907 [14401 0]:context:D:Next periodic update check at 2021-01-03T16:46:36Z
+2021-01-02 16:46:36.907 [14401 0]:context:D:Next periodic sync at 2021-01-02T17:10:46Z
+2021-01-02 16:46:36.907 [14401 0]:context:D:SetDBPath /home/justin/.local/share/Toggl/Toggl Desktop/toggldesktop.db
+2021-01-02 16:46:36.907 [14401 0]:database:D:sqlite3_threadsafe()=1
+2021-01-02 16:48:00.957 [14885 0]:context:D:startPeriodicUpdateCheck
+2021-01-02 16:48:00.957 [14885 0]:context:D:Next periodic update check at 2021-01-03T16:48:00Z
+2021-01-02 16:48:00.957 [14885 0]:context:D:Next periodic sync at 2021-01-02T17:06:13Z
+2021-01-02 16:48:00.957 [14885 0]:context:D:SetDBPath /home/justin/.local/share/Toggl/Toggl Desktop/toggldesktop.db
+2021-01-02 16:48:00.957 [14885 0]:database:D:sqlite3_threadsafe()=1

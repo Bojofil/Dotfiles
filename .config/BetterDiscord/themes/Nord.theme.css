@@ -1,0 +1,27 @@
+//META{"name":"Nord","description":"Created by Sivert Gullberg Hansen using Nord's Polar Night-colors - Based on the Nocturnal theme made by Yann (https://codedotspectra.me/)","author":"Sivert#0001","version":" [Auto Updated]","invite":"Ux9yAY3","source":"https://github.com/codedotspectra/themes","website":"https://sivert.xyz/"}*//
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+    --primary: #4c566a;
+    --primaryGradient2: #4c566a;
+    --backgroundDark: #2e3440;
+    --backgroundDarker: #d8dee9;
+
+    --DangerColor: #dc3545;
+    --WarningColor: #ffc107;
+    --SuccesColor: #28a745;
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 1px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 100%;
+    --rs-online-color: #a3be8c;
+    --rs-idle-color: #d08770;
+    --rs-dnd-color: #bf616a;
+    --rs-offline-color: #4c566a;
+    --rs-streaming-color: #b48ead;
+    --rs-invisible-color: #e5e9f0;
+
+    --backgroundCode: rgba(0, 0, 0, 0.35);
+    --backgroundName: rgba(0, 0, 0, 0.2);
+}

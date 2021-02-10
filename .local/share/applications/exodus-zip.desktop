@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Name=Exodus
+Comment=Secure, manage, and trade blockchain assets.
+Exec=bash -c "/home/justin/Exodus-linux-x64/Exodus %u"
+Terminal=false
+MimeType=x-scheme-handler/exodus;
+Categories=Utility;Network;Finance;
+Encoding=UTF-8
+X-Desktop-File-Install-Version=0.26

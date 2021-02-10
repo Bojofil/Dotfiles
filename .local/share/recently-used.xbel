@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_justin0/balena-etcher-electron-1.5.115-linux-x64.zip" added="2021-01-26T20:31:27.877429Z" modified="2021-01-26T20:31:27.877431Z" visited="2021-01-26T20:31:27.877429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-26T20:31:27.877430Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/archlinux-2021.01.01-x86_64.iso" added="2021-01-26T20:32:52.531703Z" modified="2021-01-26T20:32:52.531710Z" visited="2021-01-26T20:32:52.531704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-26T20:32:52.531706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/exodus-linux-x64-21.1.29.zip" added="2021-01-30T10:51:07.615794Z" modified="2021-01-30T10:51:07.615797Z" visited="2021-01-30T10:51:07.615794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-30T10:51:07.615795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/ledger-live-desktop-2.20.0-linux-x86_64.AppImage" added="2021-02-02T13:59:38.101973Z" modified="2021-02-02T13:59:38.101984Z" visited="2021-02-02T13:59:38.101975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-02T13:59:38.101977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_justin0/2019_TaxReturn.pdf" added="2021-02-08T15:29:16.456263Z" modified="2021-02-08T15:29:16.456268Z" visited="2021-02-08T15:29:16.456264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-08T15:29:16.456266Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/justin/Downloads/Coinbase-5a013103a1474a012ea24c67-TransactionsHistoryReport-2021-02-08-15%2035%2033.csv" added="2021-02-08T15:35:46.357142Z" modified="2021-02-08T15:35:54.309462Z" visited="2021-02-08T15:35:46.357143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-08T15:35:54.309454Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
